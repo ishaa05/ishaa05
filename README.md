@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishaa05
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently exploring Machine earning and Data Science
+- 🌱 I’m currently exploring Machine Learning and Data Science
 
 
 <!---
