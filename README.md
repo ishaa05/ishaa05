@@ -58,7 +58,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ishaa05&show_icons=true&theme=radical&hide_title=true&hide_border=true&card_width=400px" 
        alt="Isha's GitHub Stats" height="200px" />
-
+  
 </div>
 
 
@@ -91,7 +91,7 @@
 ishaa05/ishaa05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>GSSOC(24) Badges 🪶</h2>
+<h2>My Badges 🪶</h2>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -100,4 +100,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
  </a>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png"  width="100px" height="100px" />
 </div>
