@@ -51,6 +51,23 @@
 </p>
 
 ---
+
+
+
+
+<h2 align="center">🚀 Languages Used</h2>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaa05&layout=compact&theme=radical&hide_border=true&card_width=450px" 
+       alt="Isha's Top Languages" height="200px" />
+
+</div>
+
+
+
+---
 ### 🚀 Connect with Me
 <p align="center">
   <a href="https://github.com/ishaa05">
