@@ -1,6 +1,22 @@
-- 👋 Hi, I’m @ishaa05
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently exploring Machine Learning and Data Science
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Isha!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75289&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+Profile!;I'm+a+tech+enthusiast+%F0%9F%92%BB;Learning+every+day!+%F0%9F%93%96" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me
+
+- 👋 Hi, I’m **@ishaa05**
+- 👀 I’m passionate about **Machine Learning** and **Web Development**
+- 🌱 I’m currently diving deeper into **Machine Learning** and **Data Science**
+
+---
+
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -32,6 +48,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45" />
 
+</p>
+
+---
+### 🚀 Connect with Me
+<p align="center">
+  <a href="https://github.com/ishaa05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:isha.bamel22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <!---
