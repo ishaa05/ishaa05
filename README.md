@@ -64,7 +64,7 @@
 
 
 
-<h2 align="center">🚀 Languages Used</h2>
+<h2 align="center">💻 Languages Used</h2>
 
 <div align="center">
 
