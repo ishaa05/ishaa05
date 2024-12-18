@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45" />
 
 </p>
-![Snake animation](https://github.com/ishaa05/ishaa05/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 ishaa05/ishaa05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
