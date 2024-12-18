@@ -51,6 +51,15 @@
 </p>
 
 ---
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaa05&show_icons=true&theme=radical&hide_title=true&hide_border=true&card_width=400px" 
+       alt="Isha's GitHub Stats" height="200px" />
+
+</div>
 
 
 
