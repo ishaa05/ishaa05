@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
+      # Step 1: Checkout the repository
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Generate the snake animation
+      # Step 2: Generate the snake animation
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
           github_user_name: ishaa05
           outputs: dist/snake.svg
 
-      # Push the snake animation to the output branch
-      - name: Push to output branch
+      # Step 3: Push the snake animation to the repository
+      - name: Upload the snake animation
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
