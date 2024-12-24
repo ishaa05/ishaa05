@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-
+### 🐍 Contributions
 <p align="center">
   <img src="https://github.com/ishaa05/ishaa05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
