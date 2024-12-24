@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *" # Runs at midnight every day
   workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
@@ -10,19 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout
+      # Checkout the output branch
+      - name: Checkout output branch
         uses: actions/checkout@v3
+        with:
+          ref: output
 
-      # Step 2: Generate the snake animation
-      - name: Generate snake animation
+      # Generate the snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: ishaa05
           outputs: dist/snake.svg
 
-      # Step 3: Push the snake animation to the repository
-      - name: Upload the snake animation
+      # Push the generated snake animation to the output branch
+      - name: Push to output branch
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
