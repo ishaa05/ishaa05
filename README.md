@@ -11,7 +11,7 @@
 <td>
 👋 Hi, I’m @ishaa05
 
-🎯 Currently diving into **Machine Learning** and **Data Science**.
+🎯 Currently diving into **Machine Learning** and **Deep Learning**.
 
 💡 Fun fact: I believe coffee is the ultimate debugger! ☕
 
