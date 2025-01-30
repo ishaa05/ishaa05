@@ -116,3 +116,8 @@ You can click the Preview link to take a look at your changes.
  </a>
   <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png"  width="100px" height="100px" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishaa05&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
