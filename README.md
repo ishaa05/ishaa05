@@ -33,7 +33,7 @@ const isha = {
     tools: ["Docker", "Git", "VS Code", "Postman"],
     ML: ["TensorFlow", "scikit-learn", "Streamlit"]
   },
-  funFact: "I believe coffee is the ultimate debugger! ☕",
+  funFact: "🛠️ Turning "What if?" into "Why did I do that?"",
   quote: "The best way to predict the future is to create it."
 };
 ```
