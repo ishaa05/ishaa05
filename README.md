@@ -16,6 +16,8 @@
 
 ## 💫 About Me
 
+
+
 <div align="center">
   <h3>🚀 Hello World! I'm Isha Bamel</h3>
 </div>
@@ -42,70 +44,6 @@ const isha = {
     <p>Learning is continuous - there is no finish line. Every challenge is an opportunity to grow.</p>
   </blockquote>
 </div>
-
-## 🐱 My GitHub Data
-📦 <!-- storage_used --> Used in GitHub's Storage
-📜 <!-- public_repos --> Public Repositories
-🔑 <!-- private_repos --> Private Repositories
-
-**I'm an Early 🐤**
-
-```
-🌞 Morning                <!-- morning_commits -->commits         <!-- morning_percentage -->% 
-🌆 Daytime                <!-- daytime_commits -->commits        <!-- daytime_percentage -->% 
-🌃 Evening                <!-- evening_commits -->commits        <!-- evening_percentage -->% 
-🌙 Night                  <!-- night_commits -->commits         <!-- night_percentage -->% 
-
-```
-
-📅 **I'm Most Productive on <!-- most_productive_day -->**
-
-```
-Monday                   <!-- monday_commits -->commits         <!-- monday_percentage -->% 
-Tuesday                  <!-- tuesday_commits -->commits         <!-- tuesday_percentage -->% 
-Wednesday                <!-- wednesday_commits -->commits         <!-- wednesday_percentage -->% 
-Thursday                 <!-- thursday_commits -->commits         <!-- thursday_percentage -->% 
-Friday                   <!-- friday_commits -->commits         <!-- friday_percentage -->% 
-Saturday                 <!-- saturday_commits -->commits         <!-- saturday_percentage -->% 
-Sunday                   <!-- sunday_commits -->commits        <!-- sunday_percentage -->% 
-
-```
-
-📊 **This Week I Spent My Time On**
-
-```
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-<!-- lang1 -->               <!-- lang1_time --> hrs      <!-- lang1_percentage -->% 
-<!-- lang2 -->                     <!-- lang2_time --> hrs         <!-- lang2_percentage -->% 
-<!-- lang3 -->                <!-- lang3_time --> mins             <!-- lang3_percentage -->% 
-<!-- lang4 -->                     <!-- lang4_time --> mins             <!-- lang4_percentage -->% 
-<!-- lang5 -->                      <!-- lang5_time --> mins             <!-- lang5_percentage -->% 
-
-🔥 Editors: 
-<!-- editor1 -->                 <!-- editor1_time --> hrs      <!-- editor1_percentage -->% 
-
-💻 Operating System: 
-<!-- os1 -->                      <!-- os1_time --> hrs      <!-- os1_percentage -->% 
-
-```
-
-**I Mostly Code in <!-- top_language -->**
-
-```
-<!-- lang1 -->               <!-- lang1_repos --> repos            <!-- lang1_percentage -->% 
-<!-- lang2 -->               <!-- lang2_repos --> repos            <!-- lang2_percentage -->% 
-<!-- lang3 -->               <!-- lang3_repos --> repos             <!-- lang3_percentage -->% 
-<!-- lang4 -->                   <!-- lang4_repos --> repos             <!-- lang4_percentage -->% 
-<!-- lang5 -->                     <!-- lang5_repos --> repos             <!-- lang5_percentage -->% 
-
-```
-
-Last Updated on <!-- last_updated_date --> UTC
-**These Readme stats are generated using github action awesome-readme-stats**
-
-
 
 ## 📊 GitHub Analytics
 
@@ -186,6 +124,10 @@ Last Updated on <!-- last_updated_date --> UTC
   <img src="https://github-profile-trophy.vercel.app/?username=ishaa05&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </div>
 
+
+      
+  
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -201,5 +143,11 @@ Last Updated on <!-- last_updated_date --> UTC
 </div>
 
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
+
+<!---
+ishaa05/ishaa05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
