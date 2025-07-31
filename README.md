@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <h3>🚀 Hello World! I'm Isha Bamel</h3>
+  
 </div>
 
 ```javascript
