@@ -118,6 +118,9 @@ const isha = {
 
 </div>
 
+## Hacktober Fest 2025
+[![An image of @ishaa05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishaa05)](https://holopin.io/@ishaa05)
+
 ## 📈 My Coding Journey
 
 <div align="center">
